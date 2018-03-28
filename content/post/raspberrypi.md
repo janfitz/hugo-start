@@ -7,4 +7,6 @@ tags:
 
 <!-- Video jsem vybral, protože se váže ke mnou navrženému tématu -->
 
+Video jsem vybral, protože se váže ke mnou navrženému tématu
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/W2F8Wa65_B4"></iframe>
